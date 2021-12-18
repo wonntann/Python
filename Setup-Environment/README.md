@@ -24,8 +24,7 @@ In this module, you will be learning the basics of Python.
   * Use extension [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 ## Installation Video
-* [Setting up Environment](assets/finalIntroPyVSCodeWin.mp4)
-* 
+* [Setting up Environment](https://youtu.be/3RUihvZdwqQ)
 
 ## Installation Tutorials
 * [Linux, MAC OS](https://developers.google.com/edu/python/set-up)
