@@ -33,7 +33,6 @@ In the solution scripts, each individual exercise is commented out to make a mul
 - [Python Basics](./Basics/README.md)
 - [Python Variables & Data Types](./Variables-&-Data-Types/README.md)
 - [Python Control Flow](./Control-Flow/README.md)
-- [Python Errors & Exceptions](./Errors-&-Exceptions/README.md/README.md)
 - [Python Lists](./Containers/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
