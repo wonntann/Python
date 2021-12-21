@@ -14,14 +14,16 @@ In this module, you will be learning the basics of containers in Python.
   * [Sets]()
 
 
-## Table of Contents
+Table of Contents
+=================
 - [Lists](https://github.com/wonntann/Python/tree/main/Containers/Lists)
 - [Dictionaries](https://github.com/wonntann/Python/tree/main/Containers/Dictionary)
 - [Tuples](https://github.com/wonntann/Python/tree/main/Containers/Tuples)
 - [Sets](https://github.com/wonntann/Python/tree/main/Containers/Sets)
 
 
-### Vocabulary
+Vocabulary
+==============
 append()
 indexing
 zero-based index
