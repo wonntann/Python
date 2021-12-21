@@ -98,15 +98,15 @@ for key, value in my_dict.items():
 
 
 ### Vocabulary
-append()
-indexing
-zero-based index
-del
-insert()
-pop()
-dict()
-method
-arguments
-popitem() 
-update()
-get()
+- append()
+- indexing
+- zero-based index
+- del
+- insert()
+- pop()
+- dict()
+- method
+- arguments
+- popitem() 
+- update()
+- get()
