@@ -22,9 +22,8 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 ## Prerequisites
 * Knowledge of how to open and run commands from a command or terminal window
-* [Python 3 installed on the operating system](https://atpulley.tech/python-3-installation/)
-* Using a local IDE, such as [Visual Studio Code installed](https://atpulley.tech/visual-studio-code-installation/)
-* [Python extension loaded in Visual Studio Code](https://atpulley.tech/visual-studio-code-working-with-python/)
+* [Python 3 installation, VS Code installation/configuration](https://www.youtube.com/watch?v=3RUihvZdwqQ)
+
 
 <div id="top"></div>
 
@@ -105,6 +104,6 @@ Distributed under the MIT License. See [License](https://github.com/wonntann/pyt
 ## Contact
 Tanya - [@wonntann](https://twitter.com/wonntann)
 
-Project Link: [https://github.com/wonntann/programming-languages](https://github.com/wonntann/programming-languages)
+Project Link: [https://github.com/wonntann/programming-languages](https://github.com/wonntann/python)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
