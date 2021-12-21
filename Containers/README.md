@@ -24,11 +24,11 @@ Table of Contents
 
 Vocabulary
 ==============
-append()
-indexing
-zero-based index
-del
-insert()
-pop()
-method
-arguments
+- append()
+- indexing
+- zero-based index
+- del
+- insert()
+- pop()
+- method
+- arguments
