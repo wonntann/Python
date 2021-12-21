@@ -11,12 +11,14 @@ In this module, you will be learning the basics of containers in Python.
   * [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
   * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
   * [Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+  * [Sets]()
 
 
 ## Table of Contents
-[Lists](#lists/lists)
-[Dictionaries](#dictionaries)
-[Tuples](#tuples)
+[Lists](/lists)
+[Dictionaries](/Dictionary)
+[Tuples](/Tuples)
+[Sets](/Sets)
 
 
 ### Vocabulary
