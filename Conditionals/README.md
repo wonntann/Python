@@ -21,8 +21,8 @@ In this module, you will be learning the conditionals of Python. You can run all
 Table of Contents
 =================
   * [Boolean Expresions](#boolean-expressions)
-  * [if-else Statements](#if-else-statements")
-  * [Testing Multiple Conditions](#testing-mulitple-conditions)
+  * [if-else Statements](#if-else-statements)
+  * [Testing Multiple Conditions](#testing-multiple-conditions)
   * [Exercise](#exercise)
   * [Contributing](#contributing)
   * [License](#license)
@@ -31,7 +31,7 @@ Table of Contents
 <br />
 
 
-# Boolean Expression
+# Boolean Expressions
 A Boolean expression is just another name for a conditional test, either True or False. Boolean values are found keeping track of certain conditions, i.e. to check whether a game is running or if a user has the authority to login a website.
 
 Examples
