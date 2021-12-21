@@ -27,7 +27,7 @@ Table of Contents
   * [Indexing](#indexing)
   * [Keywords](#keywords)
   * [Indentation](#indentation)
-  * [Input/Output](#input/output)
+  * [Input/Output](#input-output)
   * [Comments](#comments) 
   * [Tips](#tips)
   * [Exercises](#exercises) 
@@ -127,7 +127,7 @@ print(looping_list())
 ```
 
 
-Input/Output
+Input Output
 ============
 You are able to compose your Python script and when you run the file, you see the ouput in the terminal.
 
