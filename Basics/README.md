@@ -1,9 +1,9 @@
 # Python Basics
 
-Introduction
+## Introduction
 In this module, you will be learning the basics of Python. You can run all of this code within the terminal. Simply write **python3** and hit **enter**, that will allow you to write Python straight into the terminal, otherwise, you can use your preferred ide (Integrated development environment).
 
-Learning Objectives
+## Learning Objectives
 * Create and execute a Python file
 * Write and run Python code in Visual Sudio Code
 * Python concepts: 
@@ -15,29 +15,31 @@ Learning Objectives
   * .py format
   * Running file
 
-How to Read This
+## How to Read This
 
 **>>>** means the code is being run in the Python interpreter. Insert the Python code that  is displayed after the symbols. Do not write those symbols in your script.
 
+<div id="top"></div>
 
-<!--  TABLE OF CONTENTS  -->
 Table of Contents
-============
-  * [Introduction to Variables](#variables)
-  * [Indexing](#indexing)
-  * [Keywords](#keywords)
-  * [Indentation](#indentation)
-  * [Input/Output](#input-output)
-  * [Comments](#comments) 
-  * [Tips](#tips)
-  * [Exercises](#exercises) 
-  * [Vocabulary](#vocabulary) 
-  * [Contributing](#contributing) 
-  * [Contact](#contact)
+==================
+
+- [Introduction to Variables](#variables)
+- [Indexing](#indexing)
+- [Keywords](#keywords)
+- [Indentation](#indentation)
+- [Input/Output](#input-output)
+- [Comments](#comments) 
+- [Tips](#tips)
+- [Exercises](#exercises) 
+- [Vocabulary](#vocabulary) 
+- [Contributing](#contributing) 
+- [Contact](#contact)
 
 
 Variables
-============
+=========
+
 Python objects can be stored in names known as variables.
 
 ```python
