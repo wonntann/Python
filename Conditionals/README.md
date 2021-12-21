@@ -16,19 +16,6 @@ In this module, you will be learning the conditionals of Python. You can run all
 
 **>>>** means the code is being run in the Python interpreter. Insert the Python code that is displayed after the symbols. Do not write those symbols in your script. If the code does not have any symbols before it, it is being run in an IDE.
 
-<!--  TABLE OF CONTENTS  -->
-  
-Table of Contents
-=================
-  * [Boolean Expresions](#boolean-expressions)
-  * [if-else Statements](#if-else-statements)
-  * [Testing Multiple Conditions](#testing-multiple-conditions)
-  * [Exercise](#exercise)
-  * [Contributing](#contributing)
-  * [License](#license)
-  * [Contact](#contact)
-<br />
-<br />
 
 
 # Boolean Expressions
@@ -140,12 +127,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-## License
-Distributed under the MIT License. See [License](https://github.com/wonntann/JavaScript/blob/main/LICENSE)` for more information.
-
 
 ## Contact
 ![Twitter](https://img.shields.io/twitter/follow/wonntann?color=red&style=for-the-badge)
