@@ -19,26 +19,10 @@ In this module, you will be learning the basics of Python. You can run all of th
 
 **>>>** means the code is being run in the Python interpreter. Insert the Python code that  is displayed after the symbols. Do not write those symbols in your script.
 
-<div id="top"></div>
-
-Table of Contents
-==================
-
-- [Introduction to Variables](#variables)
-- [Indexing](#indexing)
-- [Keywords](#keywords)
-- [Indentation](#indentation)
-- [Input/Output](#input-output)
-- [Comments](#comments) 
-- [Tips](#tips)
-- [Exercises](#exercises) 
-- [Vocabulary](#vocabulary) 
-- [Contributing](#contributing) 
-- [Contact](#contact)
+- Navigate with the [generated table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/) by navigating to the left top, floating menu of this README file.
 
 
-Variables
-=========
+# Variables
 
 Python objects can be stored in names known as variables.
 
@@ -65,8 +49,6 @@ The general practice is to usa a lowercase single letter, word or words. If ther
 >>> first_name = "Vi"
 >>> last_name = "Pope"
 ```
-
-
 
 Indexing
 ============
