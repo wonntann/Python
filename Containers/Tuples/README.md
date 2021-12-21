@@ -8,17 +8,6 @@
   - Manipulate Tuples
   - Common Errors
 
-
-## Table of Contents
-- [Tuples](#tuples)
-- [Actions on a Tuple](#actions-on-a-tuple)
-- [Slicing](#slicing)
-- [Unpacking](#slicing)
-- [Common Error](#common-error)
-- [Exercise](#exercise)
-
-
-
 ### Tuples
 A tuple is the collection data type that is ordered, allows duplicate items, and immutable. Immutable refers to not being able to change the list after its creation. Tuples are created with parentheses, however, parentheses are not required.
 
