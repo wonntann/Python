@@ -8,21 +8,6 @@ Python Basics: Lists
   - Lists
 
 
-## Table of Contents
-- [Lists](#lists)
-- [Indexing](#indexing-in-a-list)
-- [Accessing Lists](#accessing_items-in-a-list)
-- [Manipulating Lists](#manipulating-a-list)
-- [Slicing](#slicing)
-- [Built-in Methods to Manipulate a List](#built-in-methods-to-manipulate-a-list)
-- [Copying list](#copying-lists)
-- [List Comprehension](#list-comprehension)
-- [Common Errors](#common-errors)
-- [Exercises](#exercises)
-- [Vocabulary](#vocabulary)
-
-
-
 ### Lists
 Lists serve as a collection of ordered items, each item is separated by a comma, mutable and allows for duplicates. Python lists can comprise of different sata types: numeric values, strings and/or alphabet letters. Sqaure brackets ([]) signify lists with all of the items residing in between the open and close square bracket.
 
