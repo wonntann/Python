@@ -7,11 +7,6 @@ Python Basics: Doctionaries
 - Python concepts: 
   - Dictionaries 
 
-
-## Table of Contents
-- [Dictionary](#dictionary)
-
-
 ### Dictionary
 A dictionary is a collection data type that is unordered and mutable. It consists of a collection of key value pairs, where each value pair maps the key to its addociated value. Each pair is seperated by a comma.
 my_dict = {"keys": "value", "keys": "value"}
