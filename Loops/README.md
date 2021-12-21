@@ -28,14 +28,12 @@ IndentationError: expected an indented block
 
 - Navigate with the [generated table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/) by navigating to the left top, floating menu of this README file.
 
-Loops
-============
+# Loops
 Looping permits the user to repeat the code without having to write it again. This can shorten the programming process and allow for simpler and more manageable code. 
 
 <p align="right"><a href="top">Back to Top</a></p>
 
-for Loops
-============
+# for Loops
 "The [for statement](https://docs.python.org/3/reference/compound_stmts.html#for) is used to iterate over the elements of a sequence (such as a string, tuple or list) or other iterable object"
 
 ``` Python
@@ -67,7 +65,7 @@ Saturn is one of my favorite planets.
 Jupiter is one of my favorite planets.
 ```
 
-#Continuing to Code After Running a for Loop
+# Continuing to Code After Running a for Loop
 You will want to get out of the scope of the for loop inorder to continue with the same code. The Python interpreter will only repeat the code that is indented underneath the for loop. 
 
 ``` Python
@@ -87,8 +85,8 @@ I live on the planet Earth, which is my absolute favorite.
 ```
 <p align="right"><a href="top">Back to Top</a></p>
 
-Range Function
-============
+# range() Function
+
 ``` Python
 for item in range(1, 7):
     print(item)
@@ -140,19 +138,13 @@ Which will output:
 ```
 <p align="right"><a href="top">Back to Top</a></p>
 
-Exercise
-============
+# Exercise
 1. Quickly make a list of even numbers.
 2. Make a list with 100 numbers, starting with 1.
 3. Add all of the numbers together.
 4. Find the even numbers from the list.
 
-<p align="right"><a href="top">Back to Top</a></p>
-
-Vocabulary
-============
+# Vocabulary
 min()
 max()
 sum()
-
-<p align="right"><a href="top">Back to Top</a></p>
