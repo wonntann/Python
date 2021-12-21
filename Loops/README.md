@@ -31,7 +31,6 @@ IndentationError: expected an indented block
 # Loops
 Looping permits the user to repeat the code without having to write it again. This can shorten the programming process and allow for simpler and more manageable code. 
 
-<p align="right"><a href="top">Back to Top</a></p>
 
 # for Loops
 "The [for statement](https://docs.python.org/3/reference/compound_stmts.html#for) is used to iterate over the elements of a sequence (such as a string, tuple or list) or other iterable object"
@@ -83,7 +82,6 @@ Saturn is one of my favorite planets.
 Jupiter is one of my favorite planets.
 I live on the planet Earth, which is my absolute favorite.
 ```
-<p align="right"><a href="top">Back to Top</a></p>
 
 # range() Function
 
@@ -103,7 +101,6 @@ Which will output:
 ```
 start, stop, pattern
 
-<p align="right"><a href="top">Back to Top</a></p>
 
 Working With a List
 ============
@@ -136,7 +133,6 @@ Which will output:
 ['Sally', 'John', 'Greg', 'Frida']
 ['Greg', 'Frida']
 ```
-<p align="right"><a href="top">Back to Top</a></p>
 
 # Exercise
 1. Quickly make a list of even numbers.
