@@ -15,10 +15,10 @@ In this module, you will be learning the basics of containers in Python.
 
 
 ## Table of Contents
-[Lists](/Lists)
-[Dictionaries](/Dictionary)
-[Tuples](/Tuples)
-[Sets](/Sets)
+[Lists](https://github.com/wonntann/Python/tree/main/Containers/Lists)
+[Dictionaries](https://github.com/wonntann/Python/tree/main/Containers/Dictionary)
+[Tuples](https://github.com/wonntann/Python/tree/main/Containers/Tuples)
+[Sets](https://github.com/wonntann/Python/tree/main/Sets)
 
 
 ### Vocabulary
