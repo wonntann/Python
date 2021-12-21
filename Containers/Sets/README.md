@@ -5,13 +5,8 @@
 - Write and run Python code in Visual Sudio Code
 - Python concepts: 
   - Sets
-
-
-## Table of Contents
-- [Sets](#sets)
-- [Exercises](#exercises)
-- [Vocabulary](#vocabulary)
-
+ 
+ 
 ### Sets
 Sets are used to store multiple items within a single variable. Sets a unordered, unchangeable, no duplicates are allowed, and unindexed.
 
