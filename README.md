@@ -30,10 +30,10 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 ## Table of Contents
 - [Setup Environment](/Setup-Environment/README.md)
-- [Python Basics](./Basics/README.md)
-- [Python Variables & Data Types](./Variables-&-Data-Types/README.md)
-- [Python Control Flow](./Control-Flow/README.md)
-- [Python Lists](./Containers/README.md)
+- [Python Basics](/Basics/README.md)
+- [Python Variables & Data Types](/Variables-&-Data-Types/README.md)
+- [Python Control Flow](/Control-Flow/README.md)
+- [Python Lists](/Containers/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
