@@ -35,12 +35,12 @@ Sets are used to store multiple items within a single variable. Sets a unordered
 
 
 ## Vocabulary
-discard()
-clear()
-pop()
-union()
-intersection()
-difference()
-symmetric_difference()
-update()
-frozenset()
+- discard()
+- clear()
+- pop()
+- union()
+- intersection()
+- difference()
+- symmetric_difference()
+- update()
+- frozenset()
