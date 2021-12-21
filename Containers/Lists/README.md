@@ -300,35 +300,18 @@ This error means that Python was unable to locate the item at the given index. T
 
 
 ### Vocabulary
-indexing
-zero-based index
-del
-append()
-insert()
-pop()
-reverse() 
-sort()
-sorted()
-copy()
-method
-arguments
-split()
-join()
-min()
-max()
-sum()
-extend()
-
-
-
-## Tips
-- Run code with print() to test code. You can always print out your list to see all of the items in it:
-``` python
->>> my_list = [1, 2, 3, 4, "five"]
->>> print(my_list)
-[1, 2, 3, 4, 'five']
-
-```
-- use help("keywords") to get a list of available keywords
-
+- insert()
+- pop()
+- reverse() 
+- sort()
+- sorted()
+- copy()
+- method
+- arguments
+- split()
+- join()
+- min()
+- max()
+- sum()
+- extend()
 
