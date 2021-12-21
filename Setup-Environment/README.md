@@ -12,11 +12,6 @@ In this module, you will be learning the basics of Python.
   * Preparing system
 
 
-## Table of Contents
-- [IDE](#ide)
-- [Installation](#installation)
-- [Tips](#tips)
-
 ## IDE / [Setup](https://docs.python.org/3/using/index.html)
 * [Jupyter Notebook](https://jupyter.org/)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
