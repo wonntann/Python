@@ -15,7 +15,7 @@ In this module, you will be learning the basics of containers in Python.
 
 
 ## Table of Contents
-[Lists](/lists)
+[Lists](/Lists)
 [Dictionaries](/Dictionary)
 [Tuples](/Tuples)
 [Sets](/Sets)
