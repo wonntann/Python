@@ -26,8 +26,7 @@ IndentationError: expected an indented block
 ## Table of Contents
 * [Loops](#loops)
 * [for Loops](#for-loops)
-* [Continuing to Code After Running a for Loop](#continuing-to-code-after-running-a-for-loop)
-* [range() Function](#range()-function)
+* [range Function](#range-function)
 * [Working With a List](#working-with-a-list)
 
 
@@ -37,7 +36,7 @@ Loops
 Looping permits the user to repeat the code without having to write it again. This can shorten the programming process and allow for simpler and more manageable code. 
 
 
-for Loop
+for Loops
 ============
 "The [for statement](https://docs.python.org/3/reference/compound_stmts.html#for) is used to iterate over the elements of a sequence (such as a string, tuple or list) or other iterable object"
 
@@ -90,7 +89,7 @@ I live on the planet Earth, which is my absolute favorite.
 ```
 
 
-range() Function
+Range Function
 ============
 ``` Python
 for item in range(1, 7):
