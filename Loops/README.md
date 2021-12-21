@@ -22,16 +22,11 @@ In this module, you will be learning the basics of Python.
 IndentationError: expected an indented block
 ```
 
-<div id="top"></div>
-## Table of Contents
-* [Loops](#loops)
-* [for Loops](#for-loops)
-* [range Function](#range-function)
-* [Working With a List](#working-with-a-list)
-* [Exercise](#exercise)
-* [Vaocabulary](#vocabulary)
+## How to Read This
 
+- **>>>** means the code is being run in the Python interpreter. Insert the Python code that  is displayed after the symbols. Do not write those symbols in your script.
 
+- Navigate with the [generated table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/) by navigating to the left top, floating menu of this README file.
 
 Loops
 ============
