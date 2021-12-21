@@ -19,7 +19,7 @@ In this module, you will be learning the basics of Python.
   * Indentation
 
 
-How to Read This
+## How to Read This
 
 **>>>** means the code is being run in the Python interpreter. Insert the Python code that  is displayed after the symbols. Do not write those symbols in your script.
 
@@ -35,7 +35,7 @@ Table of Contents
 - [Dealing With Large Numbers](#dealing-with-large-numbers)
 - [Numeric Operators & Order of Operation](#numeric-operators-&-order-of-operation)
 - [Strings](#strings)
-- [Strings in Version 3.6](#strings-in-3.6)
+- [f-strings](#f-strings)
 - [Multiple Assignments](#multiple-assignments)
 - [Character Escape Sequences](#character-escape-sequences)
 - [Avoiding Syntax Errors with Strings](#avoiding-syntax-errors-with-strings)
@@ -47,7 +47,7 @@ Table of Contents
 - [Contact](#contact)
 
 
-Reassigning variables
+Reassigning Variables
 =====================
 
 You can reassign a value inside of the variable by declaring after it has been instantiated.
@@ -167,8 +167,8 @@ e
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-Strings in 3.6
-=================
+f-strings
+==========
 
 [f-string](https://docs.python.org/3/tutorial/inputoutput.html#tut-f-strings): f is for format, Python formats the string by substituting the name within the curly braces with its value.
 
