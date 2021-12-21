@@ -11,7 +11,7 @@ In this module, you will be learning the basics of containers in Python.
   * [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
   * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
   * [Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
-  * [Sets]()
+  * [Sets](https://docs.python.org/3/tutorial/datastructures.html)
 
 
 Table of Contents
@@ -20,6 +20,22 @@ Table of Contents
 - [Dictionaries](https://github.com/wonntann/Python/tree/main/Containers/Dictionary)
 - [Tuples](https://github.com/wonntann/Python/tree/main/Containers/Tuples)
 - [Sets](https://github.com/wonntann/Python/tree/main/Containers/Sets)
+
+
+
+
+Tips
+=================
+- Run code with print() to test code. You can always print out your list to see all of the items in it:
+``` python
+>>> my_list = [1, 2, 3, 4, "five"]
+>>> print(my_list)
+[1, 2, 3, 4, 'five']
+
+```
+- use help("keywords") to get a list of available keywords
+
+
 
 
 Vocabulary
