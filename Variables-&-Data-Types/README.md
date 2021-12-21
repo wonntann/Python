@@ -60,7 +60,7 @@ cat
 >>> favorite_animal
 dog
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 Numeric Values
@@ -87,7 +87,6 @@ With division operations, the result will default in a float data type. If you m
 >>> 4.0 * 2
 8.0
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Dealing with large numbers
@@ -101,8 +100,6 @@ If you happen to work with large numbers, you might be accustomed to working wit
 >>> print(16_0.00_000_000_0)
 160.0
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 Numeric Operators & Order of Operation
 ======================================
@@ -139,7 +136,6 @@ To see the data type of an object:
   >>> type(num)
   <class 'str'>
   ``` 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Strings 
@@ -164,7 +160,6 @@ Square brackets allows access to a single letter when a number is included, serv
 >>> str[1]
 e
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 f-strings
@@ -178,7 +173,6 @@ type = "color"
 specific = "red"
 print(f"My favorite {type} is {specific}.)
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Multiple Assignments
@@ -189,7 +183,7 @@ It is possible to assign multiple values to different variables on a single line
 ``` Python
 z, y, x = 3, 2, 1
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 Character Escape Sequences
@@ -205,7 +199,6 @@ print("\tPython")
 Here is a list of escape sequeces:
 ![](../assets/escape-sequences.png)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Avoiding Syntax Errors with Strings
@@ -221,7 +214,6 @@ SyntaxError: invalid syntax
 ```
 Error occurs right after the second single quote with an uptick pointing up torads where the error occurred/code stopped running.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Tips
@@ -230,7 +222,6 @@ Tips
 * Run code with print() to test code
 * Use help("keywords") to get a list of available keywords
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Exercise
@@ -250,7 +241,6 @@ You can create a Python script or continue working in the terminal or IDLE. The 
 8. Remove the blank spaces in the string on Ex.1
 9. Replace the second word with Sunshine in Ex.1 with the spaces removed.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -268,32 +258,4 @@ endswith()
 find()
 replace()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-Contributing
-============
-Thanks for checking out this page, since the more positive edits and critics of this repo will help this project benefit more individuals.
-
-Submit an issue or I encourage you to fork this repo and make another page in the changes directory and contribute to this project!
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-License
-============
-Distributed under the MIT License. See [License](https://github.com/wonntann/JavaScript/blob/main/LICENSE)` for more information.
-
-
-Contact
-============
-![Twitter](https://img.shields.io/twitter/follow/wonntann?color=red&style=for-the-badge)
