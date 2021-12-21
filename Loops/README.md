@@ -22,12 +22,14 @@ In this module, you will be learning the basics of Python.
 IndentationError: expected an indented block
 ```
 
-
+<div id="top"></div>
 ## Table of Contents
 * [Loops](#loops)
 * [for Loops](#for-loops)
 * [range Function](#range-function)
 * [Working With a List](#working-with-a-list)
+* [Exercise](#exercise)
+* [Vaocabulary](#vocabulary)
 
 
 
@@ -35,6 +37,7 @@ Loops
 ============
 Looping permits the user to repeat the code without having to write it again. This can shorten the programming process and allow for simpler and more manageable code. 
 
+<p align="right"><a href="top">Back to Top</a></p>
 
 for Loops
 ============
@@ -87,7 +90,7 @@ Saturn is one of my favorite planets.
 Jupiter is one of my favorite planets.
 I live on the planet Earth, which is my absolute favorite.
 ```
-
+<p align="right"><a href="top">Back to Top</a></p>
 
 Range Function
 ============
@@ -106,6 +109,8 @@ Which will output:
 6
 ```
 start, stop, pattern
+
+<p align="right"><a href="top">Back to Top</a></p>
 
 Working With a List
 ============
@@ -138,7 +143,7 @@ Which will output:
 ['Sally', 'John', 'Greg', 'Frida']
 ['Greg', 'Frida']
 ```
-
+<p align="right"><a href="top">Back to Top</a></p>
 
 Exercise
 ============
@@ -147,10 +152,12 @@ Exercise
 3. Add all of the numbers together.
 4. Find the even numbers from the list.
 
-
+<p align="right"><a href="top">Back to Top</a></p>
 
 Vocabulary
 ============
 min()
 max()
 sum()
+
+<p align="right"><a href="top">Back to Top</a></p>
