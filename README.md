@@ -37,7 +37,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 - [Python Conditionals](/Conditionals/README.md)
 - [Python Containers](/Containers/README.md)
 - [Python Loops](/Loops/README.md)
-- [Prob Built-in Functions(/Built-in-Functions/README.md)
+- [Built-in Functions](/Built-in-Functions/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
