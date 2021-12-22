@@ -67,6 +67,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 ### Books
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 * [Think Python](http://greenteapress.com/thinkpython/html/index.html)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
