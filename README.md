@@ -4,6 +4,9 @@ Python lessons
 ## Introduction
 In this module, you will be learning Python. Python is a very popular programming language. First released in 1991 by creator Guido van Rossum. Python permits for data analysis & visualization, data science & machine learning, deep learning, web & app development, game creation, web scraping, scripting & automation and more.
 
+This learning module is loosely outlined from the [Python Documentation](https://docs.python.org/3/library/intro.html), first exploring built-in functions, and data types, then exploring deeper into the Python modules.
+
+
 ## Learning Objectives
 * Create and execute a Python file
 * Write and run Python code in Visual Sudio Code
@@ -34,6 +37,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 - [Python Conditionals](/Conditionals/README.md)
 - [Python Containers](/Containers/README.md)
 - [Python Loops](/Loops/README.md)
+- [Prob Built-in Functions(/Built-in-Functions/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
