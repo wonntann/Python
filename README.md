@@ -71,6 +71,13 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Challenges
+- [HackerRank[(https://www.hackerrank.com)
+- [CodingBat](https://codingbat.com/java)
+- [CodinGame](https://www.codingame.com/start)
+- [Advent of Code](https://adventofcode.com/)
+- [LeetCode](https://leetcode.com/)
+
 
 ### Tips
 * Run code with print() to test code
