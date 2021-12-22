@@ -116,6 +116,6 @@ Distributed under the MIT License. See [License](https://github.com/wonntann/pyt
 ## Contact
 Tanya - [@wonntann](https://twitter.com/wonntann)
 
-Project Link: [https://github.com/wonntann/programming-languages](https://github.com/wonntann/python)
+Project Link: [https://github.com/wonntann/python](https://github.com/wonntann/python)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
