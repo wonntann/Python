@@ -73,6 +73,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 * [Think Python](http://greenteapress.com/thinkpython/html/index.html)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+* [Thikcspy](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
