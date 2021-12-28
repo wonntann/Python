@@ -64,6 +64,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 * [Real Python](https://realpython.com/?utm_source=fsp&utm_medium=promo&utm_campaign=bestresources)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Codecademy: Python](https://www.codecademy.com/learn/learn-python-3)
+* [Travesy Media](https://www.youtube.com/watch?v=JJmcL1N2KQs&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
