@@ -21,11 +21,6 @@ In this module, you will be learning the basics of Python Loops.
 IndentationError: expected an indented block
 ```
 
-## How to Read This
-
-- **>>>** means the code is being run in the Python interpreter. Insert the Python code that  is displayed after the symbols. Do not write those symbols in your script.
-
-- Navigate with the [generated table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/) by navigating to the left top, floating menu of this README file.
 
 # Loops
 Looping permits the user to repeat the code without having to write it again. This can shorten the programming process and allow for simpler and more manageable code. 
@@ -140,6 +135,6 @@ Which will output:
 
 
 # Vocabulary
-min()
-max()
-sum()
+- min()
+- max()
+- sum()
