@@ -18,10 +18,16 @@ This learning module is loosely outlined from the [Python Documentation](https:/
 
 
 ## How To Read This & Exercise Solutions
-Code examples starting with **>>>** represent code in the terminal, those symbols are not meant to copy. Code without the **>>>** symbols, indicate code run in your preferred development environment.
+Code examples starting with ***>>>*** represent code in the terminal, run in the Python interpreter by entering text ***python3*** and hitting ***enter***:
+ ``` bash
+ >>> python3
+ ```
+In order to quit the Python interpreter, press ***CTRL*** + ***d*** on a Windows or Linux machine. Insert the Python code that is displayed after the ***>>>*** symbols. Do not write those symbols in your script.
 
-In the solution scripts, each individual exercise is commented out to make a multi-lined comment. If you want to uncomment the certain exercise, highlight the closing """ and press alt will highlighting the opening """ (if in vs code) and delete the two selections.
+In the solution scripts, each individual exercise is commented out to make a multi-lined comment. If you want to uncomment the certain exercise, highlight the closing ***"""*** and press alt will highlighting the opening ***"""*** (if in vs code) and delete the two selections.
 
+
+- Navigate with the [generated table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/) by navigating to the left top, floating menu of this README file.
 
 ## Prerequisites
 * Knowledge of how to open and run commands from a command or terminal window
