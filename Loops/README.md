@@ -1,8 +1,7 @@
-# Python
-Python Basics
+# Python Loops
 
 ## Introduction
-In this module, you will be learning the basics of Python.
+In this module, you will be learning the basics of Python Loops.
 
 ## Learning Objectives
 * Create and execute a Python file
@@ -137,8 +136,8 @@ Which will output:
 # Exercise
 1. Quickly make a list of even numbers.
 2. Make a list with 100 numbers, starting with 1.
-3. Add all of the numbers together.
-4. Find the even numbers from the list.
+3. Add all of the numbers together in the original list of 1 - 100.
+
 
 # Vocabulary
 min()
