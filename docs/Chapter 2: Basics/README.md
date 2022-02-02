@@ -164,28 +164,3 @@ type()
 print()
 
 
-
-
-Contributing
-============
-Thanks for checking out this page, since the more positive edits and critics of this repo will help this project benefit more individuals.
-
-Submit an issue or I encourage you to fork this repo and make another page in the changes directory and contribute to this project!
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-Contact
-============
-![Twitter](https://img.shields.io/twitter/follow/wonntann?color=red&style=for-the-badge)
-
-

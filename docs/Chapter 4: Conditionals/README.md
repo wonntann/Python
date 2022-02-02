@@ -76,59 +76,11 @@ else:
 
 
 # Exercise
-- Making an order of an ice cream sundae with your choice of toppings:
-``` python
-requested_toppings = input("What toppings would you like: marshmellows, almonds, or/and syrup\n")
+1. Making an order of an ice cream sundae with your choice of toppings.
 
-if 'marshmellows' in requested_toppings:
-    print("Adding marshmellow.")
-if 'almonds' in requested_toppings:
-    print("Adding almonds.")
-if 'syrup' in requested_toppings:
-    print("Adding syrup.")
-
-print("\nHere is your sundae!")
-```
-
-- Print out 2 conditions that one is True and the other one is False.
-``` Python
-dog_breed = ["cocker spaniel", "chow chow", "beagle", "german shepard"]
-if "cocker spaniel" in dog_breed:
-    print("You have a beautiful dog!")
-if "chow chow" not in dog_breed:
-    print("Nope, it is.") 
-```
-
-- Blank list, check if not empty:
-``` python
-requested_toppings = []
-
-if requested_toppings:
-    for i in requested_toppings:
-        print(f"Adding {i}.")
-    print("\nFinished making your pizza!")
-else:
-    print("You are getting a plain pizza")
-```
+2. Print out 2 conditions that one is True and the other one is False.
 
 
-
-## Contributing
-Thanks for checking out this page, since the more positive edits and critics of this repo will help this project benefit more individuals.
-
-Submit an issue or I encourage you to fork this repo and make another page in the changes directory and contribute to this project!
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Contact
-![Twitter](https://img.shields.io/twitter/follow/wonntann?color=red&style=for-the-badge)
+3. Create a blank list, use a conditional statement to add to the blank list and check if not empty.
 
 
