@@ -37,13 +37,12 @@ In the solution scripts, each individual exercise is commented out to make a mul
 <div id="top"></div>
 
 ## Table of Contents
-- [Setup Environment](/Setup-Environment/README.md)
-- [Python Basics](/Basics/README.md)
-- [Python Variables & Data Types](/Variables-&-Data-Types/README.md)
-- [Python Conditionals](/Conditionals/README.md)
-- [Python Containers](/Containers/README.md)
-- [Python Loops](/Loops/README.md)
-- [Built-in Functions](/Built-in-Functions/README.md)
+- [Setup Environment](docs/Chapter-1:-Setup-Environment/README.md)
+- [Python Basics](docs/Chapter-2:-Basics/README.md)
+- [Python Variables & Data Types](docs/Chapter-3:-Variables-&-Data-Types/README.md)
+- [Python Conditionals](docs/Chapter-4:-Conditionals/README.md)
+- [Python Containers](docs/Chapter-5:-Containers/README.md)
+- [Python Loops](docs/Chapter-6:-Loops/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
