@@ -37,12 +37,12 @@ In the solution scripts, each individual exercise is commented out to make a mul
 <div id="top"></div>
 
 ## Table of Contents
-- [Setup Environment](https://github.com/wonntann/Python/tree/main/docs/Chapter%201:%20Setup-Environment)
-- [Python Basics](docs/Chapter%202:%20Basics)
-- [Python Variables & Data Types](docs/Chapter-3:-Variables-&-Data-Types/README.md)
-- [Python Conditionals](docs/Chapter-4:-Conditionals/README.md)
-- [Python Containers](docs/Chapter-5:-Containers/README.md)
-- [Python Loops](docs/Chapter-6:-Loops/README.md)
+- [Setup Environment](docs/Chapter%201:%20Setup-Environment/README.md)
+- [Python Basics](docs/Chapter%202:%20Basics/README.md)
+- [Python Variables & Data Types](docs/Chapter%203:%20Variables-&-Data-Types/README.md)
+- [Python Conditionals](docs/Chapter%204:%20Conditionals/README.md)
+- [Python Containers](docs/Chapter%205:%20Containers/README.md)
+- [Python Loops](docs/Chapter%206:%20Loops/README.md)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
