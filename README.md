@@ -38,7 +38,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 ## Table of Contents
 - [Setup Environment](https://github.com/wonntann/Python/tree/main/docs/Chapter%201:%20Setup-Environment)
-- [Python Basics](docs/Chapter-2:-Basics)
+- [Python Basics](docs/Chapter%202:%20Basics)
 - [Python Variables & Data Types](docs/Chapter-3:-Variables-&-Data-Types/README.md)
 - [Python Conditionals](docs/Chapter-4:-Conditionals/README.md)
 - [Python Containers](docs/Chapter-5:-Containers/README.md)
