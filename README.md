@@ -51,6 +51,7 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 
 ### Resources
+- [Environment setup](https://www.youtube.com/watch?v=3RUihvZdwqQ)
 ### Links
 * [Tutorials](https://www.w3schools.com/python/default.asp)  
 * [Documentation](https://docs.python.org/3/)
