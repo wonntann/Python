@@ -1,5 +1,4 @@
 # Python
-Python lessons
 
 ## Introduction
 In this module, you will be learning Python. Python is a very popular programming language. First released in 1991 by creator Guido van Rossum. Python permits for data analysis & visualization, data science & machine learning, deep learning, web & app development, game creation, web scraping, scripting & automation and more.
