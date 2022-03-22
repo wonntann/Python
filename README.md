@@ -38,11 +38,11 @@ In the solution scripts, each individual exercise is commented out to make a mul
 
 ## Table of Contents
 - [Setup Environment](https://github.com/wonntann/Python/tree/main/docs/Chapter%201_%20Setup-Environment)
-- [Python Basics](/docs/Chapter%202:%20Basics/README.md)
-- [Python Variables & Data Types](/docs/Chapter%203:%20Variables-&-Data-Types/README.md)
-- [Python Conditionals](docs/Chapter%204:%20Conditionals/README.md)
-- [Python Containers](docs/Chapter%205:%20Containers/README.md)
-- [Python Loops](docs/Chapter%206:%20Loops/README.md)
+- [Python Basics](https://github.com/wonntann/Python/tree/main/docs/Chapter%202_%20Basics)
+- [Python Variables & Data Types](https://github.com/wonntann/Python/tree/main/docs/Chapter%203_%20Variables-%26-Data-Types)
+- [Python Conditionals](https://github.com/wonntann/Python/tree/main/docs/Chapter%204_%20Conditionals)
+- [Python Containers](https://github.com/wonntann/Python/tree/main/docs/Chapter%205_%20Containers)
+- [Python Loops](https://github.com/wonntann/Python/tree/main/docs/Chapter%206_%20Loops)
 - [Outside Resources](#resources)
 - [Tips](#tips)
 - [Contributing](#contributing)
