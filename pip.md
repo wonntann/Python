@@ -1,6 +1,7 @@
 They use of pip to interact with the index (hosts the projects)
 
--[lookup](https://www.youtube.com/watch?v=bPSfNKvhooA)
+- [lookup](https://www.youtube.com/watch?v=bPSfNKvhooA)
+- [pip](https://www.linkedin.com/learning/python-using-community-code/install-pip?autoSkip=true&autoplay=true&resume=false)
 
 - [Python Package Index](https://pypi.org/)
 - [pip](https://pypi.org/project/pip/)
